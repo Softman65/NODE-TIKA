@@ -1,4 +1,4 @@
 
 instrucciones para instalar la aplicación desde UBUNTU
 
-1) instalar JAVA 7
+https://www.vultr.com/docs/how-to-install-apache-maven-on-ubuntu-16-04
