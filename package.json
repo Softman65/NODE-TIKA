@@ -1,0 +1,9 @@
+{
+  "name": "node-tika",
+  "version": "0.0.0",
+  "description": "NodeTika",
+  "main": "app.js",
+  "author": {
+    "name": "Ricardo"
+  }
+}
